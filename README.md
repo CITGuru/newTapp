@@ -1,2 +1,0 @@
-# newTapp
-Created with CodeSandbox
